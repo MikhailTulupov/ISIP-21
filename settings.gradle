@@ -1,0 +1,3 @@
+rootProject.name = 'ISIP-21'
+include 'Task1'
+
